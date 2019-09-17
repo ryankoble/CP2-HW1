@@ -1,6 +1,6 @@
 # CP2-HW1
 
-##PROJECT 1 // Bon Iver Viisualizer
+**PROJECT 1 // Bon Iver Viisualizer**
 
 • Welcome
      - i,i animation
@@ -18,7 +18,7 @@
 
 
 
-##PROJECT 2 // Braille Face Koya
+**PROJECT 2 // Braille Face Koya**
 
 • Welcome
      - image
